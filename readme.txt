@@ -1,3 +1,3 @@
-Gig is a versin control system
+Gig is a distributed versin control system
 Git is free software
 
